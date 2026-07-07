@@ -13,12 +13,13 @@ The solution includes:
 ## 📋 Business Scenario
 The Paris Olympic Games rely on approximately 45,000 volunteers to support event operations, logistics, customer service, transportation, health services, and venue management. Managing such a large volunteer workforce requires effective scheduling, training tracking, resource allocation, and operational reporting. This project was developed as a proof-of-concept volunteer management platform, demonstrating how database systems, data warehousing, and business intelligence tools can support large-scale event operations and data-driven decision-making.
 
-Project Objectives:<br/>
-▪️ Manage volunteer information and assignments<br/>
-▪️ Track training, shifts, events, and roles<br/>
-▪️ Support operational planning and resource allocation<br/>
-▪️ Transform transactional data into analytical insights<br/>
-▪️ Visualise performance through Power BI dashboards<br/>
+The Olympic Organising Committee required a system capable of:<br/>
+
+▪️ Managing volunteer assignments across multiple events<br/>
+▪️ Tracking training completion and role requirements<br/>
+▪️ Supporting scheduling and operational planning<br/>
+▪️ Monitoring resource availability and service capacity<br/>
+▪️ Providing analytical insights for decision-making<br/>
 
 ## 💡 Key Features
 ### Database Design
